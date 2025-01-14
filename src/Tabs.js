@@ -38,7 +38,7 @@ function Tabs() {
         <div id="tab1" className={`tab-pane ${activeTab === 'tab1' ? 'active' : ''}`}>
           <h2>Overview</h2>
           <p>Welcome to our product page. Here you can find detailed information about our product, including its features, pricing, and more. Our product is designed to meet your needs with the highest quality and performance.</p>
-          <img src="https://www.codewithfaraz.com/tools/placeholder?size=800x400" alt="Product Overview" />
+          <img src="https://via.placeholder.com/800x400" alt="Product Overview" />
           <p>Our product has been developed with the latest technology to ensure reliability and efficiency. Explore the tabs to learn more about what makes our product stand out.</p>
         </div>
         <div id="tab2" className={`tab-pane ${activeTab === 'tab2' ? 'active' : ''}`}>
@@ -50,7 +50,7 @@ function Tabs() {
             <li>Feature 4: 24/7 customer support</li>
             <li>Feature 5: Regular updates and improvements</li>
           </ul>
-          <img src="https://www.codewithfaraz.com/tools/placeholder?size=800x400" alt="Product Features" />
+          <img src="https://via.placeholder.com/800x400" alt="Product Features" />
           <p>Discover the wide range of features that our product offers. Each feature is designed to provide you with the best experience and value.</p>
         </div>
         <div id="tab3" className={`tab-pane ${activeTab === 'tab3' ? 'active' : ''}`}>
